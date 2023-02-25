@@ -1,4 +1,4 @@
-![Header](./cabecalho.png)
+![Header](./cabecalho.jpeg)
 
 
 # 💫 About Me:
