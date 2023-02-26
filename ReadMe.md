@@ -18,4 +18,4 @@ Desenvolvedor<br>2° ano de curso na Etec<br><br>Um amante de tecnologia inspira
 ---
 [![](https://visitcount.itsvg.in/api?id=luigiBorges&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->![Uploading github-header-image.png…]()
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
